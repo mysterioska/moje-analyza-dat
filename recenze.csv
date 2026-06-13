@@ -1,9 +1,4 @@
-id,produkt,recenze,hvezdicky
-1,Kávovar,Káva je výborná, ale čištění je opravdu složité a trvá dlouho.,3
-2,Sluchátka,Zvuk je naprosto úžasný! Baterie vydrží celý den, jsem nadšená.,5
-3,Robotický vysavač,Neustále naráží do nábytku a aplikaci nelze propojit s Wi-Fi. Velké zklamání.,1
-4,Chytré hodinky,Design je hezký, ale měření tepu je hodně nepřesné.,2
-5,Mixér,Skvělý výkon, rozmixuje i mražené ovoce během vteřiny. Doporučuji.,5
-6,Kávovar,Káva chutná jako z kavárny, ovládání je intuitivní. Spokojenost.,5
-7,Robotický vysavač,Vysává dobře, ale je velmi hlučný.,4
-8,Sluchátka,Po měsíci přestalo hrát levé sluchátko. Reklamace byla zamítnuta.,1
+id;produkt;recenze;hvezdicky
+1;Kávovar;Káva je výborná, ale čištění je opravdu složité a trvá dlouho.;3
+2;Sluchátka;Zvuk je naprosto úžasný! Baterie vydrží celý den, jsem nadšená.;5
+...
